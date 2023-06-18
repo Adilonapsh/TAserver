@@ -1,0 +1,31 @@
+{
+    "Nodemcu": {
+        "Sensorultra": "0",
+        "Sensorpir": "0",
+        "Relay1": "0",
+        "Relay2": "0",
+        "Relay3": "0"
+    },
+    "0": {
+        "HP 0": {
+            "Phone_Status": "off",
+            "Ip_Address": "null",
+            "Video_Status": 0,
+            "Video_Connections": 0,
+            "Battery_Lvl": 0,
+            "Battery_Tmp": 0,
+            "Battery_Vlt": 0
+        }
+    },
+    "1": {
+        "HP 1": {
+            "Phone_Status": "off",
+            "Ip_Address": "null",
+            "Video_Status": 0,
+            "Video_Connections": 0,
+            "Battery_Lvl": 0,
+            "Battery_Tmp": 0,
+            "Battery_Vlt": 0
+        }
+    }
+}
